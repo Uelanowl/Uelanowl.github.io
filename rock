@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>rock</title>
+<style>
+body {
+font-family: roboto;
+background-repeat;
+background-attachment: fixed;
+background-size: cover;}
+</style>
+<p style="position: relative;top:20px;left:0px;right;0">
+<img src="foto rock.png"width="655" height="635" style="float:left;" />
+</p>
+<p align="center" style="position: relative;top:60px;left:0px;right;10"> 
+<img src="judul rock.png"width=320" height=90">
+</p><h2> <p align="center" style="color:black;font-size:140%;position: relative;top:50px;left:0px;"> Apa Itu Genre Musik Rock? </p> </h2>
+<p align="justify" style="color:black;position: relative;font-size:120%;margin-right:30px;margin-top:70px;margin-left:40px;"> Musik rock adalah genre musik yang muncul di Amerika Serikat pada akhir tahun 1940-an dan mencapai puncak pada 1950-an. Musik rock mempunyai ciri atau karakteristik yang membedakannya dengan musik lain. Pertama, Musik rock memiliki irama yang keras dan khas karena ketukan yang keras. Irama musik rock yang kuat menyebabkan tingkat energi pendengarnya melambung tinggi.. </p> 
+</p><h2> <p align="center" style="color:black;font-size:140%;position: relative;left:0px;"> Contoh Musik rock </p> </h2>
+<p align="center" style="color:black;font-size:100%;position: relative;">klik gambar untuk mendengarkan</p> 
+
+<p align="left" style="position: relative;margin-top:5px;margin-left:30px;margin-right;30">
+<a href="https://youtu.be/hTWKbfoikeg?si=nferI1wp66hzF0Yj"><img src="nirvana.png"width="250" height="168" style="float:left;</a>
+
+<p align="left" style="position: relative;margin-top:5px;margin-left:30px;margin-right;30">
+<a href="https://youtu.be/qU9mHegkTc4?si=7FOffJUPA9kygDLZ"><img src="arctic monkeys.png"width="190" height="190" style="float:left;</a>
+
+<p align="left" style="position: relative;margin-top:0px;margin-left:30px;margin-right;30">
+<a href="https://youtu.be/hP6VM6YAMIE?si=hS1NlQLYHPkdyheK"><img src="black rover.png"width="170" height="170" style="float:left;"</a>
+
+<a href="index.html"><img align="left" src="home.png"width="210" height="107"</a>
+
+</head>
+</html>
+
+
