@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>about us</title>
+<style>
+body {
+font-family: roboto;
+background-repeat;
+background-attachment: fixed;
+background-size: cover;}
+</style>
+<p style="position: relative;top:20px;left:0px;right;0">
+<img src="KELOMPOK.png"width="655" height="635" style="float:left;" />
+</p>
+</p><h1> <p align="center" style="color:black;font-size:140%;position: relative;top:50px;left:0px;"> Nama Anggota Kelompok : </p> </h1>
+<p align="center" style="color:black;position: relative;font-size:160%;margin-right:30px;margin-top:100px;margin-left:40px;"> Cahya Tri Wulandari (07) </p> 
+<p align="center" style="color:black;position: relative;font-size:160%;margin-right:30px;margin-top:25px;margin-left:40px;"> Ghozy Huda Alfarizi (18) </p> 
+<p align="center" style="color:black;position: relative;font-size:160%;margin-right:30px;margin-top:25px;margin-left:40px;"> Putri Alodia Rahma (29) </p> 
+
+<a href="index.html"><img align="left" src="home.png"width="210" height="107"</a>
+
+</head>
+</html>
+
+
