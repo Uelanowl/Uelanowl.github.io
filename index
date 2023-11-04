@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>index</title>
+<style>
+body {
+background-image: url('homee.png');
+background-repeat;
+background-attachment: fixed;
+background-size: cover;}
+</style>
+<p align="center" style="color:white;font-size:270%;position: relative;top:55px;left:0px;">
+Berbagai Jenis </p>
+<h1> <p align="center" style="color:white;font-size:200%;position: relative;top:17px;left:0px;">
+GENRE MUSIK </p> <h1>
+<p style="position: relative;top:0px;left:10px;right;10">
+<a href="country.html"><img align="right" src="country.png"width="420" height="215"</a>
+<a href="metal.html"><img align="right" src="metal.png"width="420" height="215"</a>
+<a href="index.html"><img align="right" src="home.png"width="420" height="215"</a>
+<a href="jazz.html"><img align="right" src="jazz.png"width="420" height="215"</a>
+<a href="hip hop.html"><img align="right" src="hip hop.png"width="420" height="215"</a>
+<a href="pop.html"><img align="right" src="pop.png"width="420" height="215"</a>
+<a href="rock.html"><img align="right" src="rock.png"width="420" height="215"</a>
+<a href="about us.html"><img align="right" src="about us.png"width="420" height="215"</a>
+</p>
+</p>
+</head>
+</html>
